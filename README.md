@@ -27,7 +27,7 @@ Sorting Visualizer is an interactive web application that helps users understand
    ```
 2. 📂 Navigate to the project folder:
    ```sh
-   cd sorting-visualizer
+   cd Sorting-Visualizer
    ```
 3. 🌐 Open `index.html` in your web browser.
 
